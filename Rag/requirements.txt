@@ -1,0 +1,16 @@
+llama-index
+openapi
+pypdf
+ipykernel
+python-dotenv
+qdrant-client
+transformers
+einops
+accelerate
+langchain
+bitsandbytes
+sentence_transformers
+llama-index-vector-stores-qdrant
+llama-index-llms-huggingface
+llama-index-llms-huggingface-api
+torch

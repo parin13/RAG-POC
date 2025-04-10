@@ -1,0 +1,24 @@
+
+similarity search algo :  HNSW (Hierarchical Navigable Small World) eg of   approximate nearest neighbor (ANN e.g., HNSW)
+
+HNSw is graph based ANN algo 
+
+
+speed : O(log n)
+
+Similarity metrics (e.g., cosine similarity, Euclidean distance)
+
+(A · B) / (||A|| * ||B||)
+
+
+RAGAS : evaluate RAGS : question  , ans , context ,groundtruth 
+
+
+ML/NLP: 
+    how to embed data word2 vec
+    cosine similarity
+    simple linear regressions
+
+
+Deep learning / NLP
+    Transformet and bert 
