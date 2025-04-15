@@ -141,3 +141,15 @@ coverage.xml
 
 # Logs
 *.log 
+
+
+# Storage files and directories
+Rag/storage/
+**/storage/
+storage/
+*.json
+image__vector_store.json
+default__vector_store.json
+graph_store.json
+index_store.json
+docstore.json
